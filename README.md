@@ -12,7 +12,7 @@ Simple discord bot written in python obfuscating lua files sent by user on speci
 - Install lua for your os: https://www.lua.org/download.html
 - clone this repo by running this command: 
 ```
-git clone https://github.com/yunglean4171/discord-bot-lua-obfuscator.git
+git clone https://github.com/TirSANX/chat-bot.git
 ```
 - Install required packages by running this command:
 ```
