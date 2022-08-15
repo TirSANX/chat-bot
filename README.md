@@ -1,4 +1,4 @@
-# discord-bot-lua-obfuscator (python 3.7.9)
+# discord-bot-lua-obfuscator (python 3.7.9) (Yunglean)
 
 # Preview: https://youtu.be/ft7_UrsT348
 
