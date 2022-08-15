@@ -27,6 +27,3 @@ python bot.py
 ```
 
 ### After completing all these steps youre good to go!
-
-# Contributing
-If you have some ideas that you want to suggest please make a [pull requests](https://github.com/yunglean4171/discord-bot-lua-obfuscator/pulls) and if you found some bugs please make an [issue](https://github.com/yunglean4171/discord-bot-lua-obfuscator/issues). Every contribution will be appreciated.
